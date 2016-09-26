@@ -16,6 +16,13 @@ public class DemoGit {
      */
     public static void main(String[] args) {
         HelloClass.hello();
+        
+    }
+    
+    public int decomptation (int z){
+        int exodus = 23;
+        int res = 0;
+        return (z *23)/2+(2*3);
     }
     
 }
