@@ -22,7 +22,7 @@ public class DemoGit {
     public int decomptation (int z){
         int exodus = 23;
         int res = 0;
-        return (z *23)/2+(2*3);
+        return res = (z *exodus)/2+(2*3);
     }
     
 }
